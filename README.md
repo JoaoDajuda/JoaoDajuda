@@ -63,8 +63,8 @@
 ## 📊 `// TELEMETRY` — Estatísticas no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=FCEE0A&icon_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Telemetria do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoDajuda&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=FCEE0A&icon_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Telemetria do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDajuda&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Linguagens mais utilizadas" />
 </div>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #00F0FF, #FCEE0A, #FF003C); margin: 24px 0;" />
