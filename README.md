@@ -62,8 +62,8 @@
 ## 📊 `// TELEMETRY` — Estatísticas no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=FCEE0A&icon_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Telemetria do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoDajuda&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=FCEE0A&icon_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Telemetria do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDajuda&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Linguagens mais utilizadas" />
 </div>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #00F0FF, #FCEE0A, #FF003C); margin: 24px 0;" />
@@ -82,17 +82,17 @@
     <tr>
       <td style="padding: 10px 14px;"><code>PROJ_01</code> — <strong>Projeto Principal</strong></td>
       <td style="padding: 10px 14px;">Aplicação ou sistema focado em resolver um problema real com clareza e desempenho.</td>
-      <td style="padding: 10px 14px;"><a href="https://github.com/SEU-USUARIO-GITHUB/projeto-01">[ABRIR REPO]</a></td>
+      <td style="padding: 10px 14px;"><a href="https://github.com/JoaoDajuda/projeto-01">[ABRIR REPO]</a></td>
     </tr>
     <tr>
       <td style="padding: 10px 14px;"><code>PROJ_02</code> — <strong>Sistema / Automação</strong></td>
       <td style="padding: 10px 14px;">Projeto voltado a integração, fluxo automatizado ou estrutura de backend/serviços.</td>
-      <td style="padding: 10px 14px;"><a href="https://github.com/SEU-USUARIO-GITHUB/projeto-02">[ABRIR REPO]</a></td>
+      <td style="padding: 10px 14px;"><a href="https://github.com/JoaoDajuda/projeto-02">[ABRIR REPO]</a></td>
     </tr>
     <tr>
       <td style="padding: 10px 14px;"><code>PROJ_03</code> — <strong>Lab / Experimento</strong></td>
       <td style="padding: 10px 14px;">Laboratório técnico para testar arquiteturas, interfaces ou novas abordagens.</td>
-      <td style="padding: 10px 14px;"><a href="https://github.com/SEU-USUARIO-GITHUB/projeto-03">[ABRIR REPO]</a></td>
+      <td style="padding: 10px 14px;"><a href="https://github.com/JoaoDajuda/projeto-03">[ABRIR REPO]</a></td>
     </tr>
   </tbody>
 </table>
