@@ -48,14 +48,13 @@
 ## 🧩 `// TECH_DECK` — Linguagens e Tecnologias
 
 <div align="center" style="padding: 10px 0;">
-  <img src="https://img.shields.io/badge/HTML5-FCEE0A?style=for-the-badge&logo=html5&logoColor=09090B&labelColor=11111B" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-00F0FF?style=for-the-badge&logo=css3&logoColor=09090B&labelColor=11111B" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-FCEE0A?style=for-the-badge&logo=javascript&logoColor=09090B&labelColor=11111B" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-00F0FF?style=for-the-badge&logo=typescript&logoColor=09090B&labelColor=11111B" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PYTHON-FCEE0A?style=for-the-badge&logo=python&logoColor=09090B&labelColor=11111B" alt="Python" />
-  <img src="https://img.shields.io/badge/JAVA-FF003C?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=11111B" alt="Java" />
+  <img src="https://img.shields.io/badge/VENV-00F0FF?style=for-the-badge&logo=python&logoColor=09090B&labelColor=11111B" alt="Python venv" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-FCEE0A?style=for-the-badge&logo=javascript&logoColor=09090B&labelColor=11111B" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS3-00F0FF?style=for-the-badge&logo=css3&logoColor=09090B&labelColor=11111B" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-FF003C?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=11111B" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/GIT-00F0FF?style=for-the-badge&logo=git&logoColor=09090B&labelColor=11111B" alt="Git" />
-  <img src="https://img.shields.io/badge/DOCKER-FCEE0A?style=for-the-badge&logo=docker&logoColor=09090B&labelColor=11111B" alt="Docker" />
+  <img src="https://img.shields.io/badge/GITHUB-FCEE0A?style=for-the-badge&logo=github&logoColor=09090B&labelColor=11111B" alt="GitHub" />
 </div>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #FF003C, #FCEE0A, #00F0FF); margin: 24px 0;" />
@@ -63,8 +62,8 @@
 ## 📊 `// TELEMETRY` — Estatísticas no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoDajuda&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=FCEE0A&icon_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Telemetria do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDajuda&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=FCEE0A&icon_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Telemetria do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=E4E4E7&bg_color=09090B" alt="Linguagens mais utilizadas" />
 </div>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #00F0FF, #FCEE0A, #FF003C); margin: 24px 0;" />
