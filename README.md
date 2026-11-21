@@ -3,17 +3,17 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCEE0A,50:00F0FF,100:FF003C&height=185&section=header&text=JO%C3%83O%20PEDRO%20SOARES%20DAJUDA&fontSize=30&fontColor=09090B&animation=twinkling&fontAlignY=38&desc=%2F%2F%20DEV%20PROFILE%20%7C%20SYSTEM%20ONLINE%20%7C%20PORTF%C3%93LIO&descAlignY=60&descAlign=50" alt="Banner Cyberpunk João Pedro Soares Dajuda" />
 
   <p align="center">
-    <code>[STATUS: ONLINE]</code> &bull; <code>[CLASS: DEVELOPER]</code> &bull; <code>[NET: GITHUB]</code>
+    <code>[STATUS: ONLINE]</code> &bull; <code>[CLASS: SecDeveloper]</code> &bull; <code>[NET: GITHUB]</code>
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+    <a href="https://linkedin.com/in/JoaoDajuda" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=09090B&labelColor=09090B" alt="LinkedIn" />
     </a>
-    <a href="mailto:seu-email@exemplo.com">
+    <a href="mailto:joaopssoares607@gmail.com">
       <img src="https://img.shields.io/badge/COMMS-FF003C?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=09090B" alt="Email" />
     </a>
-    <a href="https://github.com/SEU-USUARIO-GITHUB" target="_blank">
+    <a href="https://github.com/JoaoDajuda" target="_blank">
       <img src="https://img.shields.io/badge/GITHUB-FCEE0A?style=for-the-badge&logo=github&logoColor=09090B&labelColor=09090B" alt="GitHub" />
     </a>
   </p>
@@ -22,7 +22,7 @@
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #FF003C, #FCEE0A, #00F0FF); margin: 24px 0;" />
 
-## ⚡ `// BIO_LOG` — Sobre mim
+## `// BIO_LOG` — Sobre mim
 
 <table border="0" width="100%">
   <tr>
